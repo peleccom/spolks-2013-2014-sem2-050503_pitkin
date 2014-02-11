@@ -1,0 +1,4 @@
+# Python compiled modules
+*.py[cod]
+# temporary files
+*~
