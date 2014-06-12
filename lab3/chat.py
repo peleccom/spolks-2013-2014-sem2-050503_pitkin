@@ -151,7 +151,7 @@ def main():
             else:
                 print "Invalid command. type '!help' or '!h' for help"
     except KeyboardInterrupt:
-        print "\nGood buy!"
+        print "\nGood bye!"
     finally:
         thread.shutdown()
         thread.join()
